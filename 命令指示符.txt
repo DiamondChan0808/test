@@ -1,0 +1,35 @@
+DOS环境下的基本cmd命令
+1.cd 切换目录
+cd..返回上一级目录
+cd.当前目录
+cd/返回根目录
+d：e：切换盘符
+
+2.dir 查看文件（directory）
+dir/？帮助信息
+dir/ah查看隐藏文件
+dir/ar查看只读文件
+
+3.copy复制文件
+md创建文件夹（make directory） rd删除文件夹（remove directory） 
+xcopy/？帮助信息 
+xcopy/s
+xcopy/e
+
+4.ren（rename）重命名文件和文件夹
+
+5.move移动文件夹
+
+6replace替换文件
+
+7del删除文件
+
+8.cls（clean screen）清理屏幕
+
+9.打开记事本notepad
+
+10exit 退出程序
+
+11.mspaint打开画图
+
+12.calc打开计算器
